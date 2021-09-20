@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxFVWs1COLSaPCEXgpCYeXuBclE9jUyEw6UZRSJXrCHRUKi9um+UDkG26sN1P8qgZfvlLFJja6Vvwhx/LgySwQ==",
+  "success": true,
+  "projectFilePath": "D:\\OOP\\Multiplayer\\Multiplayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tri\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.2\\microsoft.aspnet.signalr.2.4.2.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
